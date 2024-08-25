@@ -45,7 +45,8 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ronilpatil22&theme=onedark-duo)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronilpatil22&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronilpatil22&theme=default&show_icons=true&hide_border=true&layout=compact" alt="ronilpatil22's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ronilpatil22&theme=default&show_icons=true&hide_border=true&count_private=true" alt="ronilpatil22's GitHub Stats" />
 
 
 
